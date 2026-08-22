@@ -1,13 +1,21 @@
-# Task 1 — Robotics in Healthcare
+# Robotics in Healthcare
 
-## Research Report on Surgical and Rehabilitation Robots
+## Research Report — Surgical and Rehabilitation Robots
 
-**Internship:** CodeAlpha Robotics & Automation  
-**Task:** Task 1 — Research Report on Robotics Applications  
-**Student:** Qurrat ul Ain Siddiqi  
+This research report explores the applications of robotics in healthcare, with a focus on surgical robots and rehabilitation robots.
+
+### Topics Covered
+
+- Robotic-assisted surgery
+- Surgical robot applications
+- Robotic rehabilitation and exoskeletons
+- Benefits and limitations
+- Ethical considerations
+- Future developments in healthcare robotics
+
+### Report
+
+[View the full research report](./Robotics_Healthcare_Report.pdf)
+
 **Program:** BS Artificial Intelligence  
 **Date:** August 2026
-
-### Description
-
-This report explores the applications of robotics in healthcare, with a focus on surgical robots and rehabilitation robots. It discusses their working principles, applications, benefits, limitations, ethical considerations, and future development.
